@@ -1,0 +1,16 @@
+[
+{
+    "custId": 1,
+    "fname": "Gopi",
+    "lname": "Nath",
+    "street": "lakshmipuram",
+    "city": "Guntur"
+},
+{
+    "custId": 2,
+    "fname": "Samba",
+    "lname": "Siva",
+    "street": "Kukkatpalli",
+    "city": "Hyderabad"
+}
+]
